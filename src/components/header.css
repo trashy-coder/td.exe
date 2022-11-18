@@ -37,10 +37,10 @@ header {
     list-style: none;
     text-transform: uppercase;
     margin-left: 50px;
-    font-size: 23px;
+    font-size: 25px;
 }
 
 .NavList-Element a {
     text-decoration: none;
-    color: Background;
+    color: #fff;
 }
