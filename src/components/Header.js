@@ -8,12 +8,12 @@ class Header extends Component {
         return (
             <header>
                 <div className="NavBar">
-                    <a href="/home"><img className="logo , logo-Dark " alt="" src={logo}></img></a>
+                    <a href="/td.exe/home"><img className="logo , logo-Dark " alt="" src={logo}></img></a>
                     <ul className="NavList">
-                        <li className="NavList-Element"><a href="/home">Home</a></li>
-                        <li className="NavList-Element"><a href="/aktuell">Aktuell</a></li>
-                        <li className="NavList-Element"><a href="/downloads">Downloads</a></li>
-                        <li className="NavList-Element"><a href="/projecte">Projekte</a></li>
+                        <li className="NavList-Element"><a href="/td.exe/home">Home</a></li>
+                        <li className="NavList-Element"><a href="/td.exe/aktuell">Aktuell</a></li>
+                        <li className="NavList-Element"><a href="/td.exe/downloads">Downloads</a></li>
+                        <li className="NavList-Element"><a href="/td.exe/projecte">Projekte</a></li>
                     </ul>
                 </div>
             </header>
