@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/td.exe/static/css/main.073c9b0a.css",
+    "main.js": "/td.exe/static/js/main.dda222cc.js",
+    "static/js/787.3da4ac4b.chunk.js": "/td.exe/static/js/787.3da4ac4b.chunk.js",
+    "static/media/logo.svg": "/td.exe/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/td.exe/index.html",
+    "main.073c9b0a.css.map": "/td.exe/static/css/main.073c9b0a.css.map",
+    "main.dda222cc.js.map": "/td.exe/static/js/main.dda222cc.js.map",
+    "787.3da4ac4b.chunk.js.map": "/td.exe/static/js/787.3da4ac4b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.dda222cc.js"
+  ]
+}
