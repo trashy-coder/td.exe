@@ -1,0 +1,21 @@
+footer {
+    width: 100%;
+    height: 300px;
+}
+
+footer {
+    background-image: url('pic/header_bg.svg');
+    background-size: cover;
+    background-position: center;
+}
+
+.cont {
+    width: 75%;
+    height: 100%;
+    margin-left: 12%;
+}
+
+.cr {
+    padding-top: 100px;
+    text-align: center;
+}

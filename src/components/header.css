@@ -1,0 +1,46 @@
+header {
+    width: 100%;
+    height: 125px;
+}
+
+header {
+    background-image: url('pic/header_bg.svg');
+    background-size: cover;
+    background-position: center;
+}
+
+.NavBar {
+    width: 75%;
+    height: 100%;
+    margin-left: 12%;
+}
+
+.logo {
+    width: 110px;
+    margin-top: 7px;
+    float: left;
+}
+.logo-Dark {
+    filter: invert(100%);
+}
+.logo-Light {
+    filter: invert(0%);
+}
+
+.NavList {
+    float: right;
+    margin-top: 50px;
+}
+
+.NavList-Element {
+    float: left;
+    list-style: none;
+    text-transform: uppercase;
+    margin-left: 50px;
+    font-size: 23px;
+}
+
+.NavList-Element a {
+    text-decoration: none;
+    color: Background;
+}
